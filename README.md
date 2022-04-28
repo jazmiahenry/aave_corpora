@@ -9,8 +9,8 @@
 The AAVE corpora collection is Python friendly though it can be manipulated using SQL, R, and JavaScript. There are four collections: Lyric, Leadership, Book, and Social Media and each collection can be called on as a package extension meaning each package can be called using the import function and the specific collection from the AAVE corpora. It would look like this:
 
 ```
-    from aave import * \emph{#for all}
-    from aave import lyrics \emph{#for lyrics collection}
+    from aave import  #for all
+    from aave import aave_lyrics  #for lyrics collection
 ```
  
  
@@ -30,3 +30,6 @@ The Book collection was the most difficult collection to augment. African Americ
 
 #### Social Media Collection
 The Social Media Collection is my most robust and diverse collection of AAVE instances for modern day analysis. Included in this collection are json files of video transcripts, tweets, and blog posts from Black thought leaders that use AAVE prominently. 
+
+
+**This repo is actively being updated, reconfigured, and refreshed for an official June 15 release. Email me at jazmia.henry@gmail.com for feedback, questions, and requests.**
