@@ -1,6 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-genius_config.py[cod]
+aave_lyics/genius_config.py[cod]
 *$py.class
 
 # C extensions
