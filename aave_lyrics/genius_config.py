@@ -1,0 +1,3 @@
+client_id = 'uwDkJJqFuHfvIJzWwjlEXVtWjRqONGUWmyEs6ignA9n0dLzFET8OrneXSCuOO9tA'
+client_secret = 'a4c8UFsoOquu1qy53XQ-CMlAQMEKJ7m7ugtsZaK6gLMK7gL4PfH1iMKpb2qkEFwXg0OvbBAyktN_Zsa_90YeQw'
+client_access_token = 'wAf9rPthElImCd2CUFp9kDK9VXYDZwJ1P0WVGtZ1TJd5C3wFnO1JqgwoOXVatkDM'
