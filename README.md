@@ -20,8 +20,11 @@ The specific compilation of each collection is different. Below I will describe 
 The Lyric Collection is a combination of json files by artist that contains the lyrics of up to 350 songs from their discography. I focused on compiling the names of the most popular and influential Black artists of the 20th and 21st century. The Lyric collection is skewed male with a heavier emphasis on Hip Hop. This is largely due to the prevalence of male Hip Hop artists in the music industry in the modern day and the relative ease of access to lyrics after the 1950s compared to before. The analytical breakdown of the corpora is below:
 
 > There are 21 women and 39 men in this collection. 
+> 
 > There is an average of 250 songs per artist bringing the overall song lyric collection to ~15,000 songs.
+> 
 > The oldest song present was recorded in the 1930s. 
+> 
 > The newest song in the collection was recorded this year.
 
 Source: Genius 
