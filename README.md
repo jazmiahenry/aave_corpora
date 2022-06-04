@@ -42,5 +42,7 @@ The Book collection was the most difficult collection to augment. African Americ
 #### Social Media Collection
 The Social Media Collection is my most robust and diverse collection of AAVE instances for modern day analysis. Included in this collection are json files of video transcripts, tweets, and blog posts from Black thought leaders that use AAVE prominently. 
 
+Source: Twitter
+
 
 **This repo is actively being updated, reconfigured, and refreshed for an official June 15 release. Email me at jazmia.henry@gmail.com for feedback, questions, and requests.**
