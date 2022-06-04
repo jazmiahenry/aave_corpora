@@ -1,0 +1,637 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/2830003",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+ "id": 2830003,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Missy Elliot & Ynairaly Simo",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Missy-elliot-and-ynairaly-simo",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 8386480,
+  "annotator_login": "ClaudineiOliveira",
+  "api_path": "/referents/23625296",
+  "classification": "needs_exegesis",
+  "fragment": "Missy Elliot & Ynairaly Simo",
+  "id": 23625296,
+  "is_description": true,
+  "path": "/23625296/Missy-elliot-and-ynairaly-simo/Missy-elliot-and-ynairaly-simo",
+  "range": {
+   "content": "Missy Elliot & Ynairaly Simo"
+  },
+  "song_id": null,
+  "url": "https://genius.com/23625296/Missy-elliot-and-ynairaly-simo/Missy-elliot-and-ynairaly-simo",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/2830003",
+   "context": null,
+   "id": 2830003,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1651176288",
+   "link_title": "Missy Elliot & Ynairaly Simo",
+   "title": "Missy Elliot & Ynairaly Simo",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Missy-elliot-and-ynairaly-simo"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/23625296",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 23625296,
+    "pinned": false,
+    "share_url": "https://genius.com/23625296",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/23625296/Missy-elliot-and-ynairaly-simo/Missy-elliot-and-ynairaly-simo",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/8386480",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/c90759836d209fb91d3649050585a4ed",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/c90759836d209fb91d3649050585a4ed",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/c90759836d209fb91d3649050585a4ed",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/c90759836d209fb91d3649050585a4ed",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/d3105610d6d94f84fd66c1164a2d0130.800x253x1.png",
+       "human_readable_role_for_display": "Verified Artist",
+       "id": 8386480,
+       "iq": 207687,
+       "login": "ClaudineiOliveira",
+       "name": "Claudinei Oliveira",
+       "role_for_display": "verified_artist",
+       "url": "https://genius.com/ClaudineiOliveira",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/7058681",
+   "artist_names": "Missy Elliot & Ynairaly Simo",
+   "full_title": "My Own Drum (Remix) by\u00a0Missy\u00a0Elliot & Ynairaly Simo",
+   "header_image_thumbnail_url": "https://images.genius.com/0812c575dc601ce478b36b34906a07ad.300x300x1.png",
+   "header_image_url": "https://images.genius.com/0812c575dc601ce478b36b34906a07ad.1000x1000x1.png",
+   "id": 7058681,
+   "lyrics_owner_id": 8386480,
+   "lyrics_state": "complete",
+   "path": "/Missy-elliot-and-ynairaly-simo-my-own-drum-remix-lyrics",
+   "pyongs_count": 1,
+   "song_art_image_thumbnail_url": "https://images.genius.com/0812c575dc601ce478b36b34906a07ad.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/0812c575dc601ce478b36b34906a07ad.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 9428
+   },
+   "title": "My Own Drum (Remix)",
+   "title_with_featured": "My Own Drum (Remix)",
+   "url": "https://genius.com/Missy-elliot-and-ynairaly-simo-my-own-drum-remix-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/2830003",
+    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "id": 2830003,
+    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Missy Elliot & Ynairaly Simo",
+    "url": "https://genius.com/artists/Missy-elliot-and-ynairaly-simo"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/7058681/apple_music_player",
+   "description": {
+    "plain": "This remix of the song plays over the film\u2019s closing credits, which are animated to look like the stylized cartoons of the early 1960s."
+   },
+   "embed_content": "<div id='rg_embed_link_7058681' class='rg_embed_link' data-song-id='7058681'>Read <a href='https://genius.com/Missy-elliot-and-ynairaly-simo-my-own-drum-remix-lyrics'>\u201cMy Own Drum (Remix)\u201d by Missy\u00a0Elliot & Ynairaly Simo</a> on Genius</div> <script crossorigin src='//genius.com/songs/7058681/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2021-07-30",
+   "release_date_for_display": "July 30, 2021",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/802873",
+    "cover_art_url": "https://images.genius.com/1ea02ba69198a57d2da187417eccf928.1000x1000x1.jpg",
+    "full_title": "Vivo (Original Motion Picture Soundtrack) by Alex Lacamoire",
+    "id": 802873,
+    "name": "Vivo (Original Motion Picture Soundtrack)",
+    "url": "https://genius.com/albums/Alex-lacamoire/Vivo-original-motion-picture-soundtrack",
+    "artist": {
+     "api_path": "/artists/656670",
+     "header_image_url": "https://images.genius.com/2f2edc3f54f3d99fe0c833492da6776e.800x534x1.jpg",
+     "id": 656670,
+     "image_url": "https://images.genius.com/2f2edc3f54f3d99fe0c833492da6776e.800x534x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Alex Lacamoire",
+     "url": "https://genius.com/artists/Alex-lacamoire"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Co-Produced By",
+     "artists": [
+      {
+       "api_path": "/artists/222601",
+       "header_image_url": "https://images.genius.com/a9a717225e26d9479b5d12571161b6f4.1000x667x1.jpg",
+       "id": 222601,
+       "image_url": "https://images.genius.com/f435ca6c74b1afc541ba1b893698f124.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Trooko",
+       "url": "https://genius.com/artists/Trooko",
+       "iq": 486
+      },
+      {
+       "api_path": "/artists/656670",
+       "header_image_url": "https://images.genius.com/2f2edc3f54f3d99fe0c833492da6776e.800x534x1.jpg",
+       "id": 656670,
+       "image_url": "https://images.genius.com/2f2edc3f54f3d99fe0c833492da6776e.800x534x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Alex Lacamoire",
+       "url": "https://genius.com/artists/Alex-lacamoire"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/68978",
+       "header_image_url": "https://images.genius.com/365d2342d8e838709b3b0932e088a510.1000x667x1.jpg",
+       "id": 68978,
+       "image_url": "https://images.genius.com/204458cc33bf320629866a47bab1e342.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Atlantic Records",
+       "url": "https://genius.com/artists/Atlantic-records"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4274810,
+    "annotator_login": "Kristian_Lin",
+    "api_path": "/referents/23624942",
+    "classification": "accepted",
+    "fragment": "My Own Drum (Remix)",
+    "id": 23624942,
+    "is_description": true,
+    "path": "/23624942/Missy-elliot-and-ynairaly-simo-my-own-drum-remix/My-own-drum-remix",
+    "range": {
+     "content": "My Own Drum (Remix)"
+    },
+    "song_id": 7058681,
+    "url": "https://genius.com/23624942/Missy-elliot-and-ynairaly-simo-my-own-drum-remix/My-own-drum-remix",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/7058681",
+     "client_timestamps": {
+      "updated_by_human_at": 1640774126,
+      "lyrics_updated_at": 1631339467
+     },
+     "context": "Missy Elliot & Ynairaly Simo",
+     "id": 7058681,
+     "image_url": "https://images.genius.com/0812c575dc601ce478b36b34906a07ad.1000x1000x1.png",
+     "link_title": "My Own Drum (Remix) by\u00a0Missy\u00a0Elliot & Ynairaly Simo",
+     "title": "My Own Drum (Remix)",
+     "type": "Song",
+     "url": "https://genius.com/Missy-elliot-and-ynairaly-simo-my-own-drum-remix-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/23624942",
+      "body": {
+       "plain": "This remix of the song plays over the film\u2019s closing credits, which are animated to look like the stylized cartoons of the early 1960s."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 23624942,
+      "pinned": false,
+      "share_url": "https://genius.com/23624942",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/23624942/Missy-elliot-and-ynairaly-simo-my-own-drum-remix/My-own-drum-remix",
+      "verified": false,
+      "votes_total": 1,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4274810",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/fd0479727aab2b825e5ab551e62aecee",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/fd0479727aab2b825e5ab551e62aecee",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/fd0479727aab2b825e5ab551e62aecee",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/fd0479727aab2b825e5ab551e62aecee",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/fd0479727aab2b825e5ab551e62aecee",
+         "human_readable_role_for_display": "Editor",
+         "id": 4274810,
+         "iq": 1961184,
+         "login": "Kristian_Lin",
+         "name": "Kristian_Lin",
+         "role_for_display": "editor",
+         "url": "https://genius.com/Kristian_Lin",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "ynairalysimo",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/ynairalysimo/my-own-drum-remix-with-missy"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=6utv1x52Bys"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/13426",
+     "header_image_url": "https://images.genius.com/237aec2a1b157197445b1ff0792f8e14.700x394x1.jpg",
+     "id": 13426,
+     "image_url": "https://images.genius.com/f5cecb403364fda3cf9cee95e2fec842.1000x667x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Lin-Manuel Miranda",
+     "url": "https://genius.com/artists/Lin-manuel-miranda",
+     "iq": 29758
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": [
+      {
+       "annotation_count": 2,
+       "api_path": "/songs/7028465",
+       "artist_names": "Lin-Manuel Miranda & Ynairaly Simo",
+       "full_title": "Keep the Beat by\u00a0Lin-Manuel\u00a0Miranda & Ynairaly Simo",
+       "header_image_thumbnail_url": "https://images.genius.com/374bb33550ebf1f0118c73445d7f3404.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/374bb33550ebf1f0118c73445d7f3404.1000x1000x1.jpg",
+       "id": 7028465,
+       "lyrics_owner_id": 8386480,
+       "lyrics_state": "complete",
+       "path": "/Lin-manuel-miranda-and-ynairaly-simo-keep-the-beat-lyrics",
+       "pyongs_count": 1,
+       "song_art_image_thumbnail_url": "https://images.genius.com/374bb33550ebf1f0118c73445d7f3404.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/374bb33550ebf1f0118c73445d7f3404.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 24404
+       },
+       "title": "Keep the Beat",
+       "title_with_featured": "Keep the Beat",
+       "url": "https://genius.com/Lin-manuel-miranda-and-ynairaly-simo-keep-the-beat-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/2830004",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+        "id": 2830004,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Lin-Manuel Miranda & Ynairaly Simo",
+        "url": "https://genius.com/artists/Lin-manuel-miranda-and-ynairaly-simo"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1529",
+     "header_image_url": "https://images.genius.com/d91c82fa4ae2f1016fadc1c24fbbc59e.1000x333x1.jpg",
+     "id": 1529,
+     "image_url": "https://images.genius.com/085828b7d79bf8cf068b1557ca7a5e4c.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Missy Elliott",
+     "url": "https://genius.com/artists/Missy-elliott"
+    },
+    {
+     "api_path": "/artists/13426",
+     "header_image_url": "https://images.genius.com/237aec2a1b157197445b1ff0792f8e14.700x394x1.jpg",
+     "id": 13426,
+     "image_url": "https://images.genius.com/f5cecb403364fda3cf9cee95e2fec842.1000x667x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Lin-Manuel Miranda",
+     "url": "https://genius.com/artists/Lin-manuel-miranda",
+     "iq": 29758
+    }
+   ],
+   "artist": "Missy Elliot & Ynairaly Simo",
+   "lyrics": "My Own Drum (Remix) LyricsI bounce to the beat of my own drum\nI'm a wow in a world full of ho-hum\nI'm a wild young lady, but you know 'sum?\nI'd rather be at home with my own drum\n\nI bounce to the beat of my own drum\nI'm a wow in a world full of ho-hum\nI'm a wild young lady, but you know 'sum?\nI'd rather be at home with my own drum\n\nI had a viol\u00edn but I wrecked the rental\nI play the tamborine and I'm never gentle\nOh! See what I mean, that was accidental\nBut now that we're a team, we'll be instrumental\n\nInstrumental\nHa! See what I did there, I made a pun\nHa! I'm having fun\nHa! I'm never done\nHa! I'm just a one young woman\nI bounce to the beat of my own drum\nI'm a wow in a world full of ho-hum\nI'm a wild young lady, but you know 'sum?\nI'd rather b\u0435 at home with my own drum\n\nExtra, extra\nRead all about it, I am\nExtra, \u0435xtra\nThe kid that the other kids can't get next to\nI got my own seat on the bus\nI've always been a me not an us\nYou're at a ten, I need you at a three\n\nHa! Try that again, I gotta be me\nI am a ten\nI gotta be free\nAnd I, I gotta friend\nWe're a team, and we\n\nBounce to the beat of my own drum\nWe're a wow in a world full of ho-hum\nI'm a wild young lady, but you know 'sum?\nI'd rather be at home with my own drum\n\nEverybody bounce when they see me come\nI come through dressed like a showroom\nWho flyer than me? Oh, no one!\n'Cause I brr brr brr-ah to my own drum\nTurn it up loud, you can call me wild child\nI ain't nothin' like them others, got my own style\nAnyone know how I do it?\nWell here's how\n\nDa da da da da da\nLet me break it down\nLemme break it down\n'Cause I get busy when I write\n\nYou know I got the style\nAnd copy-cats, they want to bite\nWalk to the stage and all you see is flashing lights\nEverybody scream like I'm Janet and Mike\n\nGet crazy with it\nOnce you meet me, no you won't forget me\nI'm in my own lane and I won't be quittin'\nAnd make bounce, bounce, bounce to the beat we litty\n\nWe bounce to the beat of my own drum\nWe're a wow in a world full of ho-hum\nI'm a wild young lady, but you know 'sum?\nI'd rather be at home with my own drum\n\nHa! Now that's a solo\nI've always flow solo\nI speed up when the world's in slo-mo\nMake it up as I go when I don't know\nAnd I know, I know it seems like I'm lonely\nPeople assume that I'm lonely\nLook at this room and assume that you know me\nHomie, you don't know me, I'm in the zone\nWe bounce to the beat of my own drum\nWe're a wow in a world full of ho-hum\nI'm a wild young lady, but you know 'sum?\nI'd rather be at home with my own drum\n\nWe bounce to the beat of my own drum\nWe're a wow in a world full of ho-hum\nI'm a wild young lady, but you know 'sum?\nI'd rather be at home with my own drum\n\nBounce\nBounce\nBounce\nBounce1Embed"
+  }
+ ]
+}

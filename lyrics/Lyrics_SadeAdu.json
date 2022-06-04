@@ -1,0 +1,524 @@
+{
+ "alternate_names": [
+  "Sade (Singer-Songwriter)",
+  "Helen Folasade Adu",
+  "Helen F. Adu",
+  "Helen Adu"
+ ],
+ "api_path": "/artists/39853",
+ "description": {
+  "plain": "Helen Folasade Adu a.k.a. Sade Adu a.k.a. Sade was born 16 January 1959. Sade is a British Nigerian singer, songwriter, and actress, known as the lead singer of her band Sade."
+ },
+ "facebook_name": null,
+ "followers_count": 1,
+ "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/lH3X6sCTB22IoZJsSvNK_MTE4MDAzNDEwNzk2MzE2MTc0.jpg",
+ "id": 39853,
+ "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/Aj6vnJ0vSveJJEx0BsHK_85__3_.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Sade Adu",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Sade-adu",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1426935,
+  "annotator_login": "InkedCherry",
+  "api_path": "/referents/6957474",
+  "classification": "unreviewed",
+  "fragment": "Sade Adu",
+  "id": 6957474,
+  "is_description": true,
+  "path": "/6957474/Sade-adu/Sade-adu",
+  "range": {
+   "content": "Sade Adu"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6957474/Sade-adu/Sade-adu",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/39853",
+   "context": null,
+   "id": 39853,
+   "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/Aj6vnJ0vSveJJEx0BsHK_85__3_.jpg",
+   "link_title": "Sade Adu",
+   "title": "Sade Adu",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Sade-adu"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6957474",
+    "body": {
+     "plain": "Helen Folasade Adu a.k.a. Sade Adu a.k.a. Sade was born 16 January 1959. Sade is a British Nigerian singer, songwriter, and actress, known as the lead singer of her band Sade."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6957474,
+    "pinned": false,
+    "share_url": "https://genius.com/6957474",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/6957474/Sade-adu/Sade-adu",
+    "verified": false,
+    "votes_total": 2,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1426935",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/d8baf7e580e94b1da3fccaf247af214f",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/d8baf7e580e94b1da3fccaf247af214f",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/d8baf7e580e94b1da3fccaf247af214f",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/d8baf7e580e94b1da3fccaf247af214f",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/Tq47Nf1URDKHtlfJh9Mc_N.S.T.%20YT%20Banner.jpg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 1426935,
+       "iq": 1594,
+       "login": "InkedCherry",
+       "name": "InkedCherry",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/InkedCherry",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/6904347",
+   "artist_names": "Sade Adu",
+   "full_title": "Cherish the day by\u00a0Sade\u00a0Adu",
+   "header_image_thumbnail_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/Aj6vnJ0vSveJJEx0BsHK_85__3_.jpg",
+   "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/Aj6vnJ0vSveJJEx0BsHK_85__3_.jpg",
+   "id": 6904347,
+   "lyrics_owner_id": 13869750,
+   "lyrics_state": "complete",
+   "path": "/Sade-adu-cherish-the-day-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/Aj6vnJ0vSveJJEx0BsHK_85__3_.jpg",
+   "song_art_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/Aj6vnJ0vSveJJEx0BsHK_85__3_.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Cherish the day",
+   "title_with_featured": "Cherish the day",
+   "url": "https://genius.com/Sade-adu-cherish-the-day-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/39853",
+    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/lH3X6sCTB22IoZJsSvNK_MTE4MDAzNDEwNzk2MzE2MTc0.jpg",
+    "id": 39853,
+    "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/Aj6vnJ0vSveJJEx0BsHK_85__3_.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Sade Adu",
+    "url": "https://genius.com/artists/Sade-adu"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/6904347/apple_music_player",
+   "description": {
+    "plain": "Cherish the day\u201d is from sade\u2019s fourth studio album Love Deluxe (1992). It was released in the UK on 17 July 1993. This soulful song encourages one to cherish each and every day."
+   },
+   "embed_content": "<div id='rg_embed_link_6904347' class='rg_embed_link' data-song-id='6904347'>Read <a href='https://genius.com/Sade-adu-cherish-the-day-lyrics'>\u201cCherish the day\u201d by Sade\u00a0Adu</a> on Genius</div> <script crossorigin src='//genius.com/songs/6904347/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "1992-10-05",
+   "release_date_for_display": "October 5, 1992",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 13869750,
+    "annotator_login": "Shanvibez",
+    "api_path": "/referents/23254437",
+    "classification": "unreviewed",
+    "fragment": "Cherish the day",
+    "id": 23254437,
+    "is_description": true,
+    "path": "/23254437/Sade-adu-cherish-the-day/Cherish-the-day",
+    "range": {
+     "content": "Cherish the day"
+    },
+    "song_id": 6904347,
+    "url": "https://genius.com/23254437/Sade-adu-cherish-the-day/Cherish-the-day",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6904347",
+     "client_timestamps": {
+      "updated_by_human_at": 1623436840,
+      "lyrics_updated_at": 1623436442
+     },
+     "context": "Sade Adu",
+     "id": 6904347,
+     "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/Aj6vnJ0vSveJJEx0BsHK_85__3_.jpg",
+     "link_title": "Cherish the day by\u00a0Sade\u00a0Adu",
+     "title": "Cherish the day",
+     "type": "Song",
+     "url": "https://genius.com/Sade-adu-cherish-the-day-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/23254437",
+      "body": {
+       "plain": "Cherish the day\u201d is from sade\u2019s fourth studio album Love Deluxe (1992). It was released in the UK on 17 July 1993. This soulful song encourages one to cherish each and every day."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 23254437,
+      "pinned": false,
+      "share_url": "https://genius.com/23254437",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/23254437/Sade-adu-cherish-the-day/Cherish-the-day",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/13869750",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/ec3f7cdd8e8e851eda313ca0cdf9ffd4",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/ec3f7cdd8e8e851eda313ca0cdf9ffd4",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/ec3f7cdd8e8e851eda313ca0cdf9ffd4",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/ec3f7cdd8e8e851eda313ca0cdf9ffd4",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/ec3f7cdd8e8e851eda313ca0cdf9ffd4",
+         "human_readable_role_for_display": null,
+         "id": 13869750,
+         "iq": 126,
+         "login": "Shanvibez",
+         "name": "Shanvibez",
+         "role_for_display": null,
+         "url": "https://genius.com/Shanvibez",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [
+    {
+     "api_path": "/artists/2770547",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 2770547,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sade & Mike pela",
+     "url": "https://genius.com/artists/Sade-and-mike-pela"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2770558",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 2770558,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Andrew Hale, Helen Folasade Adu, Stuart Mathewman",
+     "url": "https://genius.com/artists/Andrew-hale-helen-folasade-adu-stuart-mathewman"
+    }
+   ],
+   "artist": "Sade Adu",
+   "lyrics": "Cherish the day Lyrics[Verse 1]\nYou're ruling the way that I move\nAnd I breathe your air\nYou only can rescue me\nThis is my prayer\nIf you were mine\nIf you were mine\nI wouldn't want to go to heaven\n\n[Chorus]\nCherish the day\nI won't go astray\nI won't be afraid\nYou won't catch me running\nYou're ruling the way that I move\nYou take my air\nYou show me how deep love can be\n[Verse 2]\nYou're ruling the way that I move\nAnd I breathe your air\nYou only can rescue me\nThis is my prayer\n\n[Chorus]\nCherish the Day\nI won't go astray\nI won't be afraid\nYou won't catch me running\nCherish th\u0435 Day\nI won't go astray\nI won't be afraid\nWon't run away\n\n[Bridge]\nYou show me how deep love can b\u0435\nYou show me how deep love can be\nThis is my prayer\n\n[Chorus]\nCherish the Day\nI won't go astray\nI won't be afraid\nWon't run away\nWon't shy\nCherish the Day\nI won't go astray\n\nI Cherish the Day\nI Cherish the Day\nI Cherish the Day\nI Cherish the Day\nI Cherish the DayEmbed"
+  }
+ ]
+}

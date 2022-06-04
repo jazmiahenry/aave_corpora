@@ -1,0 +1,2222 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/26456",
+ "description": {
+  "plain": "Cecil Campbell (born 20 December 1974), better known as Terror Fabulous is a Jamaican dancehall deejay, who had success in the 1990s.\n\nBiography\nCampbell was introduced to producer Dave Kelly after completing a course in electrical engineering. His recording career began in the early 1990s, with singles such as \u201cGwaney Gwaney\u201d and \u201cDorothy\u201d, and he was signed by East West Records. After his debut album, the Patrick Roberts/Donovan Germain-produced Gwaney Gwaney in 1992, his album Yaga Yaga, produced by Kelly and released in 1994, included his hit duet with Nadine Sutherland on \u201cAction\u201d (a number 43 hit in the US, which was also included by Vibe at number nineteen in its list of the fifty greatest duets of all time), as well as \u201cMiss Goody Goody\u201d (with Maxi Priest). Other guests on the album included Brian & Tony Gold, Gary Minott, Daddy Screw, and Wayne Wonder. In the same year, the Bobby Digital-produced Terror was released, and he performed at Reggae Sunsplash. He released a further album in 1996, but this proved to be his last to date, although he made guest appearances on recordings by En Vogue (\u201cRunaway Love\u201d), Luciano (\u201cIn This Together\u201d), and Third World (\u201cLegal\u201d).\n\nAfter several years away from the spotlight, he returned in 2005 with a performance at the Portmore Awards show. He currently resides in Bridgeview, Portmore, St. Catherine, Jamaica, where lives a quiet comfortable life."
+ },
+ "facebook_name": null,
+ "followers_count": 1,
+ "header_image_url": "https://images.genius.com/28d940806656ccdff6cdf0994d00d586.1000x563x1.jpg",
+ "id": 26456,
+ "image_url": "https://images.genius.com/e6c35c2cdbda9b7b6f173ee79aa32435.547x547x1.png",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Terror Fabulous",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Terror-fabulous",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 3024693,
+  "annotator_login": "Yiybrid",
+  "api_path": "/referents/6947805",
+  "classification": "unreviewed",
+  "fragment": "Terror Fabulous",
+  "id": 6947805,
+  "is_description": true,
+  "path": "/6947805/Terror-fabulous/Terror-fabulous",
+  "range": {
+   "content": "Terror Fabulous"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6947805/Terror-fabulous/Terror-fabulous",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/26456",
+   "context": null,
+   "id": 26456,
+   "image_url": "https://images.genius.com/e6c35c2cdbda9b7b6f173ee79aa32435.547x547x1.png",
+   "link_title": "Terror Fabulous",
+   "title": "Terror Fabulous",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Terror-fabulous"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6947805",
+    "body": {
+     "plain": "Cecil Campbell (born 20 December 1974), better known as Terror Fabulous is a Jamaican dancehall deejay, who had success in the 1990s.\n\nBiography\nCampbell was introduced to producer Dave Kelly after completing a course in electrical engineering. His recording career began in the early 1990s, with singles such as \u201cGwaney Gwaney\u201d and \u201cDorothy\u201d, and he was signed by East West Records. After his debut album, the Patrick Roberts/Donovan Germain-produced Gwaney Gwaney in 1992, his album Yaga Yaga, produced by Kelly and released in 1994, included his hit duet with Nadine Sutherland on \u201cAction\u201d (a number 43 hit in the US, which was also included by Vibe at number nineteen in its list of the fifty greatest duets of all time), as well as \u201cMiss Goody Goody\u201d (with Maxi Priest). Other guests on the album included Brian & Tony Gold, Gary Minott, Daddy Screw, and Wayne Wonder. In the same year, the Bobby Digital-produced Terror was released, and he performed at Reggae Sunsplash. He released a further album in 1996, but this proved to be his last to date, although he made guest appearances on recordings by En Vogue (\u201cRunaway Love\u201d), Luciano (\u201cIn This Together\u201d), and Third World (\u201cLegal\u201d).\n\nAfter several years away from the spotlight, he returned in 2005 with a performance at the Portmore Awards show. He currently resides in Bridgeview, Portmore, St. Catherine, Jamaica, where lives a quiet comfortable life."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 6947805,
+    "pinned": false,
+    "share_url": "https://genius.com/6947805",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/6947805/Terror-fabulous/Terror-fabulous",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3024693",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/bfc8067c731c95fdb066c513b44941b5",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/bfc8067c731c95fdb066c513b44941b5",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/bfc8067c731c95fdb066c513b44941b5",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/bfc8067c731c95fdb066c513b44941b5",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/bfc8067c731c95fdb066c513b44941b5",
+       "human_readable_role_for_display": "Contributor",
+       "id": 3024693,
+       "iq": 186720,
+       "login": "Yiybrid",
+       "name": "Yiybrid",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Yiybrid",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 4,
+   "api_path": "/songs/93223",
+   "artist_names": "Terror Fabulous (Ft. Nadine Sutherland)",
+   "full_title": "Action by\u00a0Terror\u00a0Fabulous (Ft.\u00a0Nadine\u00a0Sutherland)",
+   "header_image_thumbnail_url": "https://images.genius.com/62622b28e53f0b8865d76a846abcae25.300x295x1.jpg",
+   "header_image_url": "https://images.genius.com/62622b28e53f0b8865d76a846abcae25.500x492x1.jpg",
+   "id": 93223,
+   "lyrics_owner_id": 71751,
+   "lyrics_state": "complete",
+   "path": "/Terror-fabulous-action-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/62622b28e53f0b8865d76a846abcae25.300x295x1.jpg",
+   "song_art_image_url": "https://images.genius.com/62622b28e53f0b8865d76a846abcae25.500x492x1.jpg",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 9,
+    "iq_earners": 9,
+    "transcribers": 3,
+    "unreviewed_annotations": 3,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 49322
+   },
+   "title": "Action",
+   "title_with_featured": "Action (Ft.\u00a0Nadine\u00a0Sutherland)",
+   "url": "https://genius.com/Terror-fabulous-action-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/26456",
+    "header_image_url": "https://images.genius.com/28d940806656ccdff6cdf0994d00d586.1000x563x1.jpg",
+    "id": 26456,
+    "image_url": "https://images.genius.com/e6c35c2cdbda9b7b6f173ee79aa32435.547x547x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Terror Fabulous",
+    "url": "https://genius.com/artists/Terror-fabulous"
+   },
+   "apple_music_id": "1295956868",
+   "apple_music_player_url": "https://genius.com/songs/93223/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_93223' class='rg_embed_link' data-song-id='93223'>Read <a href='https://genius.com/Terror-fabulous-action-lyrics'>\u201cAction\u201d by Terror\u00a0Fabulous</a> on Genius</div> <script crossorigin src='//genius.com/songs/93223/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "1994-11-29",
+   "release_date_for_display": "November 29, 1994",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/106958",
+    "cover_art_url": "https://images.genius.com/62622b28e53f0b8865d76a846abcae25.500x492x1.jpg",
+    "full_title": "Yaga Yaga by Terror Fabulous",
+    "id": 106958,
+    "name": "Yaga Yaga",
+    "url": "https://genius.com/albums/Terror-fabulous/Yaga-yaga",
+    "artist": {
+     "api_path": "/artists/26456",
+     "header_image_url": "https://images.genius.com/28d940806656ccdff6cdf0994d00d586.1000x563x1.jpg",
+     "id": 26456,
+     "image_url": "https://images.genius.com/e6c35c2cdbda9b7b6f173ee79aa32435.547x547x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Terror Fabulous",
+     "url": "https://genius.com/artists/Terror-fabulous"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5934018,
+    "annotator_login": "Daktar",
+    "api_path": "/referents/15615853",
+    "classification": "needs_exegesis",
+    "fragment": "Action",
+    "id": 15615853,
+    "is_description": true,
+    "path": "/15615853/Terror-fabulous-action/Action",
+    "range": {
+     "content": "Action"
+    },
+    "song_id": 93223,
+    "url": "https://genius.com/15615853/Terror-fabulous-action/Action",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/93223",
+     "client_timestamps": {
+      "updated_by_human_at": 1540005592,
+      "lyrics_updated_at": 1581898824
+     },
+     "context": "Terror Fabulous",
+     "id": 93223,
+     "image_url": "https://images.genius.com/62622b28e53f0b8865d76a846abcae25.500x492x1.jpg",
+     "link_title": "Action by\u00a0Terror\u00a0Fabulous (Ft.\u00a0Nadine\u00a0Sutherland)",
+     "title": "Action",
+     "type": "Song",
+     "url": "https://genius.com/Terror-fabulous-action-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/15615853",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 15615853,
+      "pinned": false,
+      "share_url": "https://genius.com/15615853",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/15615853/Terror-fabulous-action/Action",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5934018",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/97c143dd24dbcd6292f9e83ef8316efe",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/97c143dd24dbcd6292f9e83ef8316efe",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/97c143dd24dbcd6292f9e83ef8316efe",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/97c143dd24dbcd6292f9e83ef8316efe",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/97c143dd24dbcd6292f9e83ef8316efe",
+         "human_readable_role_for_display": "Moderator",
+         "id": 5934018,
+         "iq": 1136924,
+         "login": "Daktar",
+         "name": "\u200bDaktar",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Daktar",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [
+    {
+     "api_path": "/artists/26455",
+     "header_image_url": "https://images.genius.com/19cf368ac08eeef67c8bbe7557b54a41.344x344x1.jpg",
+     "id": 26455,
+     "image_url": "https://images.genius.com/19cf368ac08eeef67c8bbe7557b54a41.344x344x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nadine Sutherland",
+     "url": "https://genius.com/artists/Nadine-sutherland"
+    }
+   ],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=jTyeSCB0eW0"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/135114",
+     "header_image_url": "https://images.genius.com/12e69d00dd09dd888dd3414acb810d16.1000x563x1.jpg",
+     "id": 135114,
+     "image_url": "https://images.genius.com/02101dced1ef6f417e2df64da156f469.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dave Kelly",
+     "url": "https://genius.com/artists/Dave-kelly"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/2919712",
+       "artist_names": "Trabass (Ft. Alovich)",
+       "full_title": "Action by\u00a0Trabass (Ft.\u00a0Alovich)",
+       "header_image_thumbnail_url": "https://images.genius.com/17ed6fa557768e12e32fd3a40427563a.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/17ed6fa557768e12e32fd3a40427563a.700x700x1.jpg",
+       "id": 2919712,
+       "lyrics_owner_id": 3024693,
+       "lyrics_state": "complete",
+       "path": "/Trabass-action-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/17ed6fa557768e12e32fd3a40427563a.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/17ed6fa557768e12e32fd3a40427563a.700x700x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Action",
+       "title_with_featured": "Action (Ft.\u00a0Alovich)",
+       "url": "https://genius.com/Trabass-action-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/584390",
+        "header_image_url": "https://images.genius.com/82b6b1b85b4567e28f4c3cf0ccc3b003.640x640x1.jpg",
+        "id": 584390,
+        "image_url": "https://images.genius.com/1ff5744e81fc7d941206201b4c8dd0fa.580x580x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Trabass",
+        "url": "https://genius.com/artists/Trabass"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Terror Fabulous",
+   "lyrics": "Action Lyrics[Intro: Terror Fabulous (Nadine Sutherland)]\nWoman waan good love\n(Hmmmmmm)\nNo sympathize\nWoman waan good lovin' every night\n(Yeah, yeah)\nRight up, lover girl\nNadine! Step up!\n\n[Chorus: Nadine Sutherland (Terror Fabulous)]\nAction (Not a bag a mouth)\nSweet (Loving make de gal dem bruk out)\nAction (Not a bag a mouth)\nSweet (Loving make de gal dem bruk out)\n\n[Verse 1: Nadine Sutherland (Terror Fabulous)]\nYou think you are so fine\n(Big chat nuh work gal man watch de time)\nStop playin' with my mind\n(Woman nuh inna joke when she well waan de wine)\nYou call me on the phone\n(One hour worth a talking angel come down)\nAnd now I want you home\n(Ital jockey gal me nah use no stone)\n[Chorus: Nadine Sutherland (Terror Fabulous)]\nAction (Not a bag a mouth)\nSweet (Loving make de gal dem bruk out)\nAction (Not a bag a mouth)\nSweet (Loving make de gal dem bruk out)\n\n[Bridge: Nadine Sutherland]\nI need some action\nTender satisfaction (Mad House!)\nMy chemistry is flowing\nCan you cause a chain reaction\nI need some action\nTender satisfaction (Mad House!)\nMy chemistry is flowing\nCan you cause a chain reaction (Watch dis!)\n\n[Verse 2: Terror Fabulous]\nWha' mi say?!\nBedroom bully, she nuh waan that enuh\nShe want a man fi caress her up like so\nMan a make love to woman like a war dem a go\nWoman a bawl inna agony an holler out (Cho!)\nHardcore lovin' man you must be insane\nWoman nuh waan no man fi make she feel pain\nSweet lovin' in de fallin' rain\nSweet lovin' a mix up her brain\n[Chorus: Nadine Sutherland (Terror Fabulous)]\nAction (Not a bag a mouth)\nSweet (Loving make de gal dem bruk out)\nAction (Not a bag a mouth)\nSweet (Loving make de gal dem bruk out)\n\n[Verse 3: Nadine Sutherland (Terror Fabulous)]\nYou think you understand\n(Agony, pain, and lovin' inna one)\nI need a lovin' man\n(Whole heap a lovey-dovy and nuff affection)\nSweet thoughts and tender care\n(Nuh waan no man fi gon tear off her brassier)\nCan you erase my fear\n(Terror comin' right ova so Nadine just beware of me)\n\n[Chorus: Nadine Sutherland (Terror Fabulous)]\nAction (Not a bag a mouth)\nSweet (Loving make de gal dem bruk out)\nAction (Not a bag a mouth)\nSweet (Loving make de gal dem bruk out)\n\n[Bridge: Nadine Sutherland]\nI need some action\nTender satisfaction (Mad House!)\nMy chemistry is flowing\nCan you cause a chain reaction\nI need some action\nTender satisfaction (Mad House!)\nMy chemistry is flowing\nCan you cause a chain reaction (Watch dis!)\n[Verse 2: Terror Fabulous]\nWha' mi say?!\nBedroom bully, she nuh waan that enuh\nShe want a man fi caress her up like so\nMan a make love to woman like a war dem a go\nWoman a bawl inna agony an holler out (Cho!)\nHardcore lovin' man you must be insane\nWoman nuh waan no man fi make she feel pain\nSweet lovin' in de fallin' rain\nSweet lovin' a mix up her brain\n\n[Chorus: Nadine Sutherland (Terror Fabulous)]\nAction (Not a bag a mouth)\nSweet (Loving make de gal dem bruk out)\nAction (Not a bag a mouth)\nSweet (Loving make de gal dem bruk out)\n\n[Bridge: Nadine Sutherland]\nI need some action\nTender satisfaction (Mad House!)\nMy chemistry is flowing\nCan you cause a chain reaction\nI need some action\nTender satisfaction (Mad House!)\nMy chemistry is flowing\nCan you cause a chain reaction (Watch dis!)\n\nAgony, pain, and lovin inna one\nWhole heap a lovey-dovy and nuff affection\nThey nuh waan no ruff man fi tear off her brassier\nTerror comin' right ova so Nadine just beware--of me\n\n[Chorus: Nadine Sutherland (Terror Fabulous)]\nAction (Not a bag a mouth)\nSweet (Loving make de gal dem bruk out)\nAction (Not a bag a mouth)\nSweet (Loving make de gal dem bruk out)Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3031612",
+   "artist_names": "Terror Fabulous (Ft. Brian & Tony Gold)",
+   "full_title": "Number 2 by\u00a0Terror\u00a0Fabulous (Ft.\u00a0Brian\u00a0& Tony Gold)",
+   "header_image_thumbnail_url": "https://images.genius.com/db90a52ab7f119089a7a3f59e827691a.300x299x1.jpg",
+   "header_image_url": "https://images.genius.com/db90a52ab7f119089a7a3f59e827691a.1000x997x1.jpg",
+   "id": 3031612,
+   "lyrics_owner_id": 3024693,
+   "lyrics_state": "complete",
+   "path": "/Terror-fabulous-number-2-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/db90a52ab7f119089a7a3f59e827691a.300x299x1.jpg",
+   "song_art_image_url": "https://images.genius.com/db90a52ab7f119089a7a3f59e827691a.1000x997x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 5333
+   },
+   "title": "Number 2",
+   "title_with_featured": "Number 2 (Ft.\u00a0Brian\u00a0& Tony Gold)",
+   "url": "https://genius.com/Terror-fabulous-number-2-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/26456",
+    "header_image_url": "https://images.genius.com/28d940806656ccdff6cdf0994d00d586.1000x563x1.jpg",
+    "id": 26456,
+    "image_url": "https://images.genius.com/e6c35c2cdbda9b7b6f173ee79aa32435.547x547x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Terror Fabulous",
+    "url": "https://genius.com/artists/Terror-fabulous"
+   },
+   "apple_music_id": "1295956866",
+   "apple_music_player_url": "https://genius.com/songs/3031612/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3031612' class='rg_embed_link' data-song-id='3031612'>Read <a href='https://genius.com/Terror-fabulous-number-2-lyrics'>\u201cNumber 2\u201d by Terror\u00a0Fabulous</a> on Genius</div> <script crossorigin src='//genius.com/songs/3031612/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": "1994",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/336527",
+    "cover_art_url": "https://images.genius.com/db90a52ab7f119089a7a3f59e827691a.1000x997x1.jpg",
+    "full_title": "Pepperseed Riddim by Various Artists",
+    "id": 336527,
+    "name": "Pepperseed Riddim",
+    "url": "https://genius.com/albums/Various-artists/Pepperseed-riddim",
+    "artist": {
+     "api_path": "/artists/768",
+     "header_image_url": "https://images.genius.com/71a50dbba44c78128b221b7df7bb51f1.1x1x1.png",
+     "id": 768,
+     "image_url": "https://images.genius.com/b4b18dc83819a7503695a9e19e3ca8ed.594x594x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Various Artists",
+     "url": "https://genius.com/artists/Various-artists"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3024693,
+    "annotator_login": "Yiybrid",
+    "api_path": "/referents/11547827",
+    "classification": "needs_exegesis",
+    "fragment": "Number 2",
+    "id": 11547827,
+    "is_description": true,
+    "path": "/11547827/Terror-fabulous-number-2/Number-2",
+    "range": {
+     "content": "Number 2"
+    },
+    "song_id": 3031612,
+    "url": "https://genius.com/11547827/Terror-fabulous-number-2/Number-2",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3031612",
+     "client_timestamps": {
+      "updated_by_human_at": 1499694939,
+      "lyrics_updated_at": 1494014039
+     },
+     "context": "Terror Fabulous",
+     "id": 3031612,
+     "image_url": "https://images.genius.com/db90a52ab7f119089a7a3f59e827691a.1000x997x1.jpg",
+     "link_title": "Number 2 by\u00a0Terror\u00a0Fabulous (Ft.\u00a0Brian\u00a0& Tony Gold)",
+     "title": "Number 2",
+     "type": "Song",
+     "url": "https://genius.com/Terror-fabulous-number-2-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11547827",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 11547827,
+      "pinned": false,
+      "share_url": "https://genius.com/11547827",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/11547827/Terror-fabulous-number-2/Number-2",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3024693",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/bfc8067c731c95fdb066c513b44941b5",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/bfc8067c731c95fdb066c513b44941b5",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/bfc8067c731c95fdb066c513b44941b5",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/bfc8067c731c95fdb066c513b44941b5",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/bfc8067c731c95fdb066c513b44941b5",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3024693,
+         "iq": 186720,
+         "login": "Yiybrid",
+         "name": "Yiybrid",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Yiybrid",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [
+    {
+     "api_path": "/artists/403716",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "id": 403716,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1651176288",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brian & Tony Gold",
+     "url": "https://genius.com/artists/Brian-and-tony-gold"
+    }
+   ],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=uTSM2q4KXjU"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/135114",
+     "header_image_url": "https://images.genius.com/12e69d00dd09dd888dd3414acb810d16.1000x563x1.jpg",
+     "id": 135114,
+     "image_url": "https://images.genius.com/02101dced1ef6f417e2df64da156f469.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dave Kelly",
+     "url": "https://genius.com/artists/Dave-kelly"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/26456",
+     "header_image_url": "https://images.genius.com/28d940806656ccdff6cdf0994d00d586.1000x563x1.jpg",
+     "id": 26456,
+     "image_url": "https://images.genius.com/e6c35c2cdbda9b7b6f173ee79aa32435.547x547x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Terror Fabulous",
+     "url": "https://genius.com/artists/Terror-fabulous"
+    },
+    {
+     "api_path": "/artists/135114",
+     "header_image_url": "https://images.genius.com/12e69d00dd09dd888dd3414acb810d16.1000x563x1.jpg",
+     "id": 135114,
+     "image_url": "https://images.genius.com/02101dced1ef6f417e2df64da156f469.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dave Kelly",
+     "url": "https://genius.com/artists/Dave-kelly"
+    }
+   ],
+   "artist": "Terror Fabulous",
+   "lyrics": "Number 2 Lyrics[Intro: Terror Fabulous]\nLet us proceed with the first song...\n\nFigure it out if you can\nIf you can't, lef' it alone\nNow listen this\nPeople!\nWatch this!\nWha' me say?!\n\n[Hook: Terror Fabulous]\nSome man a play number 2\nNuff man a oil and vaseline up fi true\nBut I and I nuh inna none of that, it won't do\n'Cause anytime me see the little bad pinkylou mi haffi sing say\n[Chorus: Terror Fabulous (Brian and Tony Gold)]\nGwan mi fabuloshous darling\nFi mad the whole of dem, 'cause she's charming\nEvery man know say the woman dem a lead\nDem hotter than pepper seed, again\nYeah!\nGwan mi fabuloshous baby\nA she drive the ol' gangsta crazy\nIf a your goody body, mi say, mi cyan resist\nSo, how the hell whole heap of man a switch?\n\n[Verse 1: Terror Fabulous (Brian and Tony Gold)]\nSaw you this morning\nYou just a model and a-\nNuff man calling\nYour body fresh like the-\nFlowers in my garden\nAnd mi a boy weh will give you -\nAll mi life savings\n\nThat's why mi sing\nHow could I not want fi feature your endz?\nYeah!\nMi nuh inna no, \"if\" and \"but\", or \"depends\"\nYeah!\nFrom your body ready, then we shall be friends\nYeah!\nGyal a model inna color contact lens\n[Hook: Terror Fabulous]\nSome man a play number 2\nNuff man a oil and vaseline up fi true, yeah!\nBut I and I nuh inna none of that, it won't do\n'Cause anytime me see the little fat pinkylou mi haffi sing say\n\n[Chorus: Terror Fabulous (Brian and Tony Gold)]\nGwan mi fabuloshous darling\nYeah!\nFi mad the whole of dem, 'cause she's charming\nEvery man know say the woman dem a lead\nDem hotter than pepper seed, you see\nGwan mi fabuloshous baby\nYeah!\nA she drive the ol' gangsta crazy\nIf a your goody body, mi say, mi cyan resist\nSo, how the hell whole heap of man a switch?\n\n[Verse 2: Terror Fabulous]\nWatch how you flex and get inna the program\nCoulda lose you wicked if you program wrong\nWatch who you ramp with, and mi say, mind wha' you nyam\nMan weh play with fire never live too long\nBully, you a bully, bully with certain man\nFull of big speech and your one bag of con\nThe bone is weak, but you die inna the strong\n'Cause in the beginning was Eve and Adam\n[Hook: Terror Fabulous]\nMi sing\nSome man a play number 2, yeah!\nNuff man a oil and vaseline up fi true, yeah!\nBut I and I nuh inna none of that, it won't do\n'Cause anytime me see the little fat pinkylou mi haffi sing say\n\n[Chorus: Terror Fabulous (Brian and Tony Gold)]\nGwan mi fabuloshous darling\nFi mad the whole of dem, 'cause she's charming\nEvery man know say the woman dem a lead\nDem hotter than pepper seed, again\nGwan mi fabuloshous baby\nA she drive the ol' gangsta crazy\nIf a your goody body, mi say, mi cyan resist\nSo, how the hell whole heap of man a switch?\n\n[Verse 3: Terror Fabulous (Brian and Tony Gold)]\nGyal, you're hot like pepper seed\nAnd the whole of dem flop, you gone a lead\nEvery man a say, \"You're hot like pepper seed\"\nAnd the whole of dem flop, you gone a lead\n\nYeah!\nIf you ever take a visit and you go pon the beach\nThe amount of pretty leg you see, your eye cyan sleep\nNo matter wha' at all, me haffi meet\nWoman me haffi call, me haffi greet\n\n[Hook: Terror Fabulous]\nSo, how some man a play number 2?\nNuff man a oil and vaseline up fi true, yeah!\nBut I and I nuh inna none of that, it won't do\n'Cause anytime me see the little fat pinkylou mi haffi sing say\n\n[Chorus: Terror Fabulous (Brian and Tony Gold)]\nGwan mi fabuloshous darling\nFi mad the whole of dem, 'cause she's charming\nEvery man know say the woman dem a lead\nDem hotter than pepper seed, come again!\nGwan mi fabuloshous baby\nA she drive the ol' gangsta crazy\nIf a your goody body, mi say, mi cyan resist\nSo, how the hell whole heap of man a switch?\n\n[Outro: Terror Fabulous (Brian and Tony Gold)]\nSaw you this morning\nYou just a model and a-\nNuff man calling\nYour body fresh like the-\nFlowers in my garden\nAnd mi a boy weh will give you -\nAll mi life savings\nThat's why me sing...Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3077750",
+   "artist_names": "Terror Fabulous",
+   "full_title": "Position by\u00a0Terror\u00a0Fabulous",
+   "header_image_thumbnail_url": "https://images.genius.com/b7f4e6a42b49ebf1efb7ece96a09dba5.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/b7f4e6a42b49ebf1efb7ece96a09dba5.300x300x1.jpg",
+   "id": 3077750,
+   "lyrics_owner_id": 3024693,
+   "lyrics_state": "complete",
+   "path": "/Terror-fabulous-position-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/b7f4e6a42b49ebf1efb7ece96a09dba5.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/b7f4e6a42b49ebf1efb7ece96a09dba5.300x300x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Position",
+   "title_with_featured": "Position",
+   "url": "https://genius.com/Terror-fabulous-position-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/26456",
+    "header_image_url": "https://images.genius.com/28d940806656ccdff6cdf0994d00d586.1000x563x1.jpg",
+    "id": 26456,
+    "image_url": "https://images.genius.com/e6c35c2cdbda9b7b6f173ee79aa32435.547x547x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Terror Fabulous",
+    "url": "https://genius.com/artists/Terror-fabulous"
+   },
+   "apple_music_id": "309492107",
+   "apple_music_player_url": "https://genius.com/songs/3077750/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3077750' class='rg_embed_link' data-song-id='3077750'>Read <a href='https://genius.com/Terror-fabulous-position-lyrics'>\u201cPosition\u201d by Terror\u00a0Fabulous</a> on Genius</div> <script crossorigin src='//genius.com/songs/3077750/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": "1992",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3024693,
+    "annotator_login": "Yiybrid",
+    "api_path": "/referents/11785942",
+    "classification": "needs_exegesis",
+    "fragment": "Position",
+    "id": 11785942,
+    "is_description": true,
+    "path": "/11785942/Terror-fabulous-position/Position",
+    "range": {
+     "content": "Position"
+    },
+    "song_id": 3077750,
+    "url": "https://genius.com/11785942/Terror-fabulous-position/Position",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3077750",
+     "client_timestamps": {
+      "updated_by_human_at": 1648735113,
+      "lyrics_updated_at": 1648735113
+     },
+     "context": "Terror Fabulous",
+     "id": 3077750,
+     "image_url": "https://images.genius.com/b7f4e6a42b49ebf1efb7ece96a09dba5.300x300x1.jpg",
+     "link_title": "Position by\u00a0Terror\u00a0Fabulous",
+     "title": "Position",
+     "type": "Song",
+     "url": "https://genius.com/Terror-fabulous-position-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11785942",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 11785942,
+      "pinned": false,
+      "share_url": "https://genius.com/11785942",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/11785942/Terror-fabulous-position/Position",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3024693",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/bfc8067c731c95fdb066c513b44941b5",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/bfc8067c731c95fdb066c513b44941b5",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/bfc8067c731c95fdb066c513b44941b5",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/bfc8067c731c95fdb066c513b44941b5",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/bfc8067c731c95fdb066c513b44941b5",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3024693,
+         "iq": 186720,
+         "login": "Yiybrid",
+         "name": "Yiybrid",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Yiybrid",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=dp54vGUi-IA"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/74414",
+     "header_image_url": "https://images.genius.com/56a53ae8872c3eac6ac52c4019d5d7ac.460x460x1.jpg",
+     "id": 74414,
+     "image_url": "https://images.genius.com/9267490ae43d32d023f943223e95cee3.300x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lloyd \u201cJohn John\u201d James",
+     "url": "https://genius.com/artists/Lloyd-john-john-james"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2260367",
+       "artist_names": "Demarco (Ft. Hotta Maestro)",
+       "full_title": "Lazy Body by\u00a0Demarco (Ft.\u00a0Hotta\u00a0Maestro)",
+       "header_image_thumbnail_url": "https://images.genius.com/e86aa711d8ff61172ca2c7392dba8daf.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/e86aa711d8ff61172ca2c7392dba8daf.600x600x1.jpg",
+       "id": 2260367,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Demarco-lazy-body-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/e86aa711d8ff61172ca2c7392dba8daf.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/e86aa711d8ff61172ca2c7392dba8daf.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Lazy Body",
+       "title_with_featured": "Lazy Body (Ft.\u00a0Hotta\u00a0Maestro)",
+       "url": "https://genius.com/Demarco-lazy-body-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/884",
+        "header_image_url": "https://images.genius.com/2522972d9915f378c04eacf32008378f.1000x667x1.jpg",
+        "id": 884,
+        "image_url": "https://images.genius.com/a0a37fefbab7ca92c3c723fe098ea060.620x620x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Demarco",
+        "url": "https://genius.com/artists/Demarco"
+       }
+      },
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/2477218",
+       "artist_names": "Spice",
+       "full_title": "Needle Eye by\u00a0Spice",
+       "header_image_thumbnail_url": "https://images.genius.com/e637ea0b96f4cffc2c30b2ac7f546731.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/e637ea0b96f4cffc2c30b2ac7f546731.1000x1000x1.jpg",
+       "id": 2477218,
+       "lyrics_owner_id": 3263774,
+       "lyrics_state": "complete",
+       "path": "/Spice-needle-eye-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/e637ea0b96f4cffc2c30b2ac7f546731.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/e637ea0b96f4cffc2c30b2ac7f546731.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false,
+        "pageviews": 14933
+       },
+       "title": "Needle Eye",
+       "title_with_featured": "Needle Eye",
+       "url": "https://genius.com/Spice-needle-eye-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/25958",
+        "header_image_url": "https://images.genius.com/26f01055780b64e299b3e1237a59c3c5.1000x668x1.jpg",
+        "id": 25958,
+        "image_url": "https://images.genius.com/92175f64124693b89bfae1a4aecd8130.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Spice",
+        "url": "https://genius.com/artists/Spice",
+        "iq": 392
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3145050",
+       "artist_names": "Opal Josephs",
+       "full_title": "I Said It by\u00a0Opal\u00a0Josephs",
+       "header_image_thumbnail_url": "https://images.genius.com/5024c886a2eb68b0730115e22c55c192.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/5024c886a2eb68b0730115e22c55c192.630x630x1.jpg",
+       "id": 3145050,
+       "lyrics_owner_id": 3024693,
+       "lyrics_state": "complete",
+       "path": "/Opal-josephs-i-said-it-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/5024c886a2eb68b0730115e22c55c192.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/5024c886a2eb68b0730115e22c55c192.630x630x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "I Said It",
+       "title_with_featured": "I Said It",
+       "url": "https://genius.com/Opal-josephs-i-said-it-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1143343",
+        "header_image_url": "https://images.genius.com/4f9cf02e29a28bfd912abfa0657a364d.426x426x1.jpg",
+        "id": 1143343,
+        "image_url": "https://images.genius.com/4f9cf02e29a28bfd912abfa0657a364d.426x426x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Opal Josephs",
+        "url": "https://genius.com/artists/Opal-josephs"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3145440",
+       "artist_names": "Lil Dainty (Ft. Patexx)",
+       "full_title": "Summ' Good by\u00a0Lil\u00a0Dainty (Ft.\u00a0Patexx)",
+       "header_image_thumbnail_url": "https://images.genius.com/84edf54b11d92c3011f71be4b09e7928.300x400x1.jpg",
+       "header_image_url": "https://images.genius.com/84edf54b11d92c3011f71be4b09e7928.300x400x1.jpg",
+       "id": 3145440,
+       "lyrics_owner_id": 3024693,
+       "lyrics_state": "complete",
+       "path": "/Lil-dainty-summ-good-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/84edf54b11d92c3011f71be4b09e7928.300x400x1.jpg",
+       "song_art_image_url": "https://images.genius.com/84edf54b11d92c3011f71be4b09e7928.300x400x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Summ\u2019 Good",
+       "title_with_featured": "Summ' Good (Ft.\u00a0Patexx)",
+       "url": "https://genius.com/Lil-dainty-summ-good-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1169866",
+        "header_image_url": "https://images.genius.com/3824c785e896d7e0362fbf087dfbf7e6.330x330x1.jpg",
+        "id": 1169866,
+        "image_url": "https://images.genius.com/3824c785e896d7e0362fbf087dfbf7e6.330x330x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Lil Dainty",
+        "url": "https://genius.com/artists/Lil-dainty"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3145605",
+       "artist_names": "Lady Danga",
+       "full_title": "A Bay by\u00a0Lady\u00a0Danga",
+       "header_image_thumbnail_url": "https://images.genius.com/afb83828eb77a43fef0ebb1ea5f00bce.300x225x1.jpg",
+       "header_image_url": "https://images.genius.com/afb83828eb77a43fef0ebb1ea5f00bce.1000x750x1.jpg",
+       "id": 3145605,
+       "lyrics_owner_id": 3024693,
+       "lyrics_state": "complete",
+       "path": "/Lady-danga-a-bay-lyrics",
+       "pyongs_count": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/afb83828eb77a43fef0ebb1ea5f00bce.300x225x1.jpg",
+       "song_art_image_url": "https://images.genius.com/afb83828eb77a43fef0ebb1ea5f00bce.1000x750x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "A Bay",
+       "title_with_featured": "A Bay",
+       "url": "https://genius.com/Lady-danga-a-bay-lyrics",
+       "primary_artist": {
+        "api_path": "/artists/1169968",
+        "header_image_url": "https://images.genius.com/078a8af32a0e09796dee356c2b21af96.320x320x1.jpg",
+        "id": 1169968,
+        "image_url": "https://images.genius.com/078a8af32a0e09796dee356c2b21af96.320x320x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Lady Danga",
+        "url": "https://genius.com/artists/Lady-danga"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/26456",
+     "header_image_url": "https://images.genius.com/28d940806656ccdff6cdf0994d00d586.1000x563x1.jpg",
+     "id": 26456,
+     "image_url": "https://images.genius.com/e6c35c2cdbda9b7b6f173ee79aa32435.547x547x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Terror Fabulous",
+     "url": "https://genius.com/artists/Terror-fabulous"
+    }
+   ],
+   "artist": "Terror Fabulous",
+   "lyrics": "Position Lyrics[Intro]\nFemale sex!\nA one thing Terror Fabulous say, and me nah stop say it\nPosition!\nAll of the girls dem, watch this!\nCock up! cock up!\nCock up! cock up!\nWatch this!\n\n[Hook]\nPosition\nHold up your head and cock up your bottom\nHold on pon the bed head and hold on strong\nScreaming and moaning, mi think say a storm\nBut she haffi request the work me perform\nJennifer and Dawn\n[Verse 1]\nBatty up in the air, everything 'round a back\nPosition me thinking is a backshot\nBreast ever stiff, and punanny fat\nAction start now, thinking fi stop\nSkin out punanny, sink down mi cock\nCrowing in the morning, at 6 o'clock\nTop class jockey, experienced jock\nBed pop down, still a prolong the act\n\n[Hook]\nPosition\nHold up your head and cock up your bottom\nHold on pon the bed head and hold on strong\nScreaming and moaning, mi think say a storm\nBut she haffi request the work me perform\nDorothy and Dawn\n\n[Verse 2]\nWatch this!\nTears come from the eye when me take out mi rod\nSink it in deep, inna deh red like salad\nWoman rail up, woman galang bad\nA limp and a move like a wounded hog\nDon't worry, be happy, woman, say you mad!\nI wish I could fly, but wings me nuh have\n[Hook]\nPosition\nHold up your head and cock up your bottom\nHold on pon the bed head and hold on strong\nScreaming and moaning, mi think say a storm\nBut she haffi request the work me perform\nAll the girls dem, watch this!\n\n[Verse 3]\nGyal jump outta house and jump the back fence\nCyan manage the size, width, or the length\nWukerman use style, some bwoy use strength\nMake gyal reveal, and some gyal repent\n\n[Hook]\nPosition\nHold up your head and cock up your bottom\nHold on pon the bed head and hold on strong\nScreaming and moaning, mi think say a storm\nBut she haffi request the work me perform\nOnce again\nWatch this!\n\n[Verse 4]\nWoman make a check and think say a fun\nBragging and boasting all up and down\nSay she wicked inna bed and second to none\nMouth talk nah go help, tell her fi come!\nLess talking, action maximum\nStrip naked and see who ago run\n[Hook]\nPosition\nHold up your head and cock up your bottom\nHold on pon the bed head and hold on strong\nScreaming and moaning, mi think say a storm\nBut she haffi request the work me perform\nWatch this!\nWha' mi say?!\n\n[Verse 5]\nBatty up in the air, everything 'round a back\nPosition mi thinking is a backshot\nBreast ever stiff, and punanny fat\nAction start now, thinking fi stop\nSkin out punanny, sink down mi cock\nCrowing in the morning, at 6 o'clock\nTop class jockey, experienced jock\nYour bed pop down, still a prolong the act\n\n[Hook]\nPosition\nHold up your head and cock up your bottom\nHold on pon the bed head and hold on strong\nScreaming and moaning, mi think say a storm\nBut she haffi request the work me perform\nDorothy and Dawn\n\n[Verse 6]\nCock up!\nWatch this!\nTears come from the eye when me take out mi rod\nSink it in deep, inna deh red like salad\nWoman rail up, woman galang bad\nA limp and a move like a wounded hog\nDon't worry, be happy, woman, say you mad!\nI wish I could fly, but wings mi nuh have\n\n[Outro]\nPosition\nHold up your head and cock up your bottom\nHold on pon the bed head and hold....Embed"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/463073",
+   "artist_names": "Terror Fabulous",
+   "full_title": "Gangster's Anthem by\u00a0Terror\u00a0Fabulous",
+   "header_image_thumbnail_url": "https://images.genius.com/e022920daef689cdfd9495c8258abad9.202x300x1.jpg",
+   "header_image_url": "https://images.genius.com/e022920daef689cdfd9495c8258abad9.202x300x1.jpg",
+   "id": 463073,
+   "lyrics_owner_id": 35703,
+   "lyrics_state": "complete",
+   "path": "/Terror-fabulous-gangsters-anthem-lyrics",
+   "pyongs_count": 1,
+   "song_art_image_thumbnail_url": "https://images.genius.com/e022920daef689cdfd9495c8258abad9.202x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/e022920daef689cdfd9495c8258abad9.202x300x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 2,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Gangster\u2019s Anthem",
+   "title_with_featured": "Gangster's Anthem",
+   "url": "https://genius.com/Terror-fabulous-gangsters-anthem-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/26456",
+    "header_image_url": "https://images.genius.com/28d940806656ccdff6cdf0994d00d586.1000x563x1.jpg",
+    "id": 26456,
+    "image_url": "https://images.genius.com/e6c35c2cdbda9b7b6f173ee79aa32435.547x547x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Terror Fabulous",
+    "url": "https://genius.com/artists/Terror-fabulous"
+   },
+   "apple_music_id": "1295956867",
+   "apple_music_player_url": "https://genius.com/songs/463073/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_463073' class='rg_embed_link' data-song-id='463073'>Read <a href='https://genius.com/Terror-fabulous-gangsters-anthem-lyrics'>\u201cGangster's Anthem\u201d by Terror\u00a0Fabulous</a> on Genius</div> <script crossorigin src='//genius.com/songs/463073/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "1993-01-01",
+   "release_date_for_display": "January 1, 1993",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/106958",
+    "cover_art_url": "https://images.genius.com/62622b28e53f0b8865d76a846abcae25.500x492x1.jpg",
+    "full_title": "Yaga Yaga by Terror Fabulous",
+    "id": 106958,
+    "name": "Yaga Yaga",
+    "url": "https://genius.com/albums/Terror-fabulous/Yaga-yaga",
+    "artist": {
+     "api_path": "/artists/26456",
+     "header_image_url": "https://images.genius.com/28d940806656ccdff6cdf0994d00d586.1000x563x1.jpg",
+     "id": 26456,
+     "image_url": "https://images.genius.com/e6c35c2cdbda9b7b6f173ee79aa32435.547x547x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Terror Fabulous",
+     "url": "https://genius.com/artists/Terror-fabulous"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 35703,
+    "annotator_login": "Scalawah",
+    "api_path": "/referents/3655263",
+    "classification": "needs_exegesis",
+    "fragment": "Gangster\u2019s Anthem",
+    "id": 3655263,
+    "is_description": true,
+    "path": "/3655263/Terror-fabulous-gangsters-anthem/Gangsters-anthem",
+    "range": {
+     "content": "Gangster's Anthem"
+    },
+    "song_id": 463073,
+    "url": "https://genius.com/3655263/Terror-fabulous-gangsters-anthem/Gangsters-anthem",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/463073",
+     "client_timestamps": {
+      "updated_by_human_at": 1487281206,
+      "lyrics_updated_at": 1473622913
+     },
+     "context": "Terror Fabulous",
+     "id": 463073,
+     "image_url": "https://images.genius.com/e022920daef689cdfd9495c8258abad9.202x300x1.jpg",
+     "link_title": "Gangster\u2019s Anthem by\u00a0Terror\u00a0Fabulous",
+     "title": "Gangster's Anthem",
+     "type": "Song",
+     "url": "https://genius.com/Terror-fabulous-gangsters-anthem-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3655263",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3655263,
+      "pinned": false,
+      "share_url": "https://genius.com/3655263",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3655263/Terror-fabulous-gangsters-anthem/Gangsters-anthem",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/35703",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/94f8898006b2750f0e2bc96c73eb7f62",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/94f8898006b2750f0e2bc96c73eb7f62",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/94f8898006b2750f0e2bc96c73eb7f62",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/94f8898006b2750f0e2bc96c73eb7f62",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b0thvzn5nlw",
+         "human_readable_role_for_display": "Contributor",
+         "id": 35703,
+         "iq": 11353,
+         "login": "Scalawah",
+         "name": "Scalawah",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Scalawah",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=6awnLilg-bU"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/135114",
+     "header_image_url": "https://images.genius.com/12e69d00dd09dd888dd3414acb810d16.1000x563x1.jpg",
+     "id": 135114,
+     "image_url": "https://images.genius.com/02101dced1ef6f417e2df64da156f469.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dave Kelly",
+     "url": "https://genius.com/artists/Dave-kelly"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/26456",
+     "header_image_url": "https://images.genius.com/28d940806656ccdff6cdf0994d00d586.1000x563x1.jpg",
+     "id": 26456,
+     "image_url": "https://images.genius.com/e6c35c2cdbda9b7b6f173ee79aa32435.547x547x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Terror Fabulous",
+     "url": "https://genius.com/artists/Terror-fabulous"
+    },
+    {
+     "api_path": "/artists/135114",
+     "header_image_url": "https://images.genius.com/12e69d00dd09dd888dd3414acb810d16.1000x563x1.jpg",
+     "id": 135114,
+     "image_url": "https://images.genius.com/02101dced1ef6f417e2df64da156f469.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dave Kelly",
+     "url": "https://genius.com/artists/Dave-kelly"
+    }
+   ],
+   "artist": "Terror Fabulous",
+   "lyrics": "Gangster\u2019s Anthem Lyrics[Intro:]\nGangsta is purple, a Terror Fabulous seh dat\nWhen we seh purple we mean dat\nUnuh waan sample di coffin, get flat\nHow it goes, see it yah!\n\n[Hook:]\nUnuh better show me unuh hand\nAll original die-hearted gunman\nNow Terror seh\nShow me unuh steel\nIf unuh ready fi go eat a bag meal\n\n[Verse 1:]\nGangsta, step inna di bank and him no fraid\nGangsta, brandish di john and get paid\nGangsta, flash left police pon parade\nGangsta, ride park up inna di shade\nGangsta, escape done already made\nGangsta, cyan get catch inna no raid\nGangsta, nah left di bomb and grenade\nGangsta, get away already and bathe\nI say, a nuh so\nGangsta nuh ramp up and play\nGangsta no tek apology no way\nA nuh so\nGangsta you cannot betray\nGangsta will murder you inna middle day, so\n\n[Hook:]\nShow me unuh hand\nAll original die-hearted gunman\nNow Terror seh\nShow me unuh steel\nIf unuh ready fi go eat a bag meal\n\n[Verse 2:]\nTrue dem see you, think yuh simple\nIf dem ready, tell dem rush you\nMachine inna dem face and ask dem, \"weh dem a do?\"\nDem nuh know you, wha' yuh go through, who you stand up to True you a laugh\nDem nuh know say you will buss dem button\n\n[Hook:]\nSo unuh, show me unuh hand\nAll original die-hearted gunman\nBeaky seh\nShow me unuh steel\nIf unuh ready fi go eat a bag meal\n[Verse 3:]\nWhen mi seh purple, bwoy a laugh, and nuff guy a look\nDem no know seh, a we write di whole gangsta book\nWe a big heavy man, gangsta a no small crook\nWe no rob petty money, a pure Brinks we jook\n\n[Hook:]\nSo unuh better show me unuh hand\nAll original die-hearted gunman\nTerror Fabulous seh\nShow me unuh steel\nIf unuh ready fi go eat a bag meal\n\n[Repeat Verse 1]\n\n[Hook]\nSo\nShow me unuh hand\nAll original die-hearted gunman\nOh God\nShow me unuh steel\nIf unno ready fi go eat ah bag meal\n\n[Repeat Verse 2]\n\n[Hook:]\nSo unuh fi, show me unuh hand\nAll original die-hearted gunman\nDaddy Screw seh\nShow me unuh steel\nIf unuh ready fi go eat a bag meal\n[Outro:]\nWhen mi seh purple, bwoy a ask, and nuff guy a look\nDem no know seh a we write di whole gangsta book...1Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5086630",
+   "artist_names": "Terror Fabulous",
+   "full_title": "A Yu Di Money Spend Pon by\u00a0Terror\u00a0Fabulous",
+   "header_image_thumbnail_url": "https://images.genius.com/b4f86c0f1aa12b58ae19a38a3b751068.298x298x1.jpg",
+   "header_image_url": "https://images.genius.com/b4f86c0f1aa12b58ae19a38a3b751068.298x298x1.jpg",
+   "id": 5086630,
+   "lyrics_owner_id": 9773617,
+   "lyrics_state": "complete",
+   "path": "/Terror-fabulous-a-yu-di-money-spend-pon-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/b4f86c0f1aa12b58ae19a38a3b751068.298x298x1.jpg",
+   "song_art_image_url": "https://images.genius.com/b4f86c0f1aa12b58ae19a38a3b751068.298x298x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "A Yu Di Money Spend Pon",
+   "title_with_featured": "A Yu Di Money Spend Pon",
+   "url": "https://genius.com/Terror-fabulous-a-yu-di-money-spend-pon-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/26456",
+    "header_image_url": "https://images.genius.com/28d940806656ccdff6cdf0994d00d586.1000x563x1.jpg",
+    "id": 26456,
+    "image_url": "https://images.genius.com/e6c35c2cdbda9b7b6f173ee79aa32435.547x547x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Terror Fabulous",
+    "url": "https://genius.com/artists/Terror-fabulous"
+   },
+   "apple_music_id": "371577107",
+   "apple_music_player_url": "https://genius.com/songs/5086630/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5086630' class='rg_embed_link' data-song-id='5086630'>Read <a href='https://genius.com/Terror-fabulous-a-yu-di-money-spend-pon-lyrics'>\u201cA Yu Di Money Spend Pon\u201d by Terror\u00a0Fabulous</a> on Genius</div> <script crossorigin src='//genius.com/songs/5086630/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "1994-01-01",
+   "release_date_for_display": "January 1, 1994",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/585028",
+    "cover_art_url": "https://images.genius.com/b4f86c0f1aa12b58ae19a38a3b751068.298x298x1.jpg",
+    "full_title": "Terror by Terror Fabulous",
+    "id": 585028,
+    "name": "Terror",
+    "url": "https://genius.com/albums/Terror-fabulous/Terror",
+    "artist": {
+     "api_path": "/artists/26456",
+     "header_image_url": "https://images.genius.com/28d940806656ccdff6cdf0994d00d586.1000x563x1.jpg",
+     "id": 26456,
+     "image_url": "https://images.genius.com/e6c35c2cdbda9b7b6f173ee79aa32435.547x547x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Terror Fabulous",
+     "url": "https://genius.com/artists/Terror-fabulous"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 9773617,
+    "annotator_login": "JamericanPride",
+    "api_path": "/referents/18613150",
+    "classification": "needs_exegesis",
+    "fragment": "A Yu Di Money Spend Pon",
+    "id": 18613150,
+    "is_description": true,
+    "path": "/18613150/Terror-fabulous-a-yu-di-money-spend-pon/A-yu-di-money-spend-pon",
+    "range": {
+     "content": "A Yu Di Money Spend Pon"
+    },
+    "song_id": 5086630,
+    "url": "https://genius.com/18613150/Terror-fabulous-a-yu-di-money-spend-pon/A-yu-di-money-spend-pon",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5086630",
+     "client_timestamps": {
+      "updated_by_human_at": 1625863600,
+      "lyrics_updated_at": 1625863600
+     },
+     "context": "Terror Fabulous",
+     "id": 5086630,
+     "image_url": "https://images.genius.com/b4f86c0f1aa12b58ae19a38a3b751068.298x298x1.jpg",
+     "link_title": "A Yu Di Money Spend Pon by\u00a0Terror\u00a0Fabulous",
+     "title": "A Yu Di Money Spend Pon",
+     "type": "Song",
+     "url": "https://genius.com/Terror-fabulous-a-yu-di-money-spend-pon-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18613150",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 18613150,
+      "pinned": false,
+      "share_url": "https://genius.com/18613150",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/18613150/Terror-fabulous-a-yu-di-money-spend-pon/A-yu-di-money-spend-pon",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/9773617",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/312addbf59c6c72aa8d196f50bec03d9",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/312addbf59c6c72aa8d196f50bec03d9",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/312addbf59c6c72aa8d196f50bec03d9",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/312addbf59c6c72aa8d196f50bec03d9",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/312addbf59c6c72aa8d196f50bec03d9",
+         "human_readable_role_for_display": "Contributor",
+         "id": 9773617,
+         "iq": 2691,
+         "login": "JamericanPride",
+         "name": "JamericanPride",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/JamericanPride",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=NyXW8ezorEE"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/975960",
+     "header_image_url": "https://images.genius.com/281232a964a6f41e26a3ca1f53774371.1000x670x1.jpg",
+     "id": 975960,
+     "image_url": "https://images.genius.com/82227f7c495bd980e7ddb3a2f446abe8.360x360x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bobby \u2018Digital\u2019 Dixon",
+     "url": "https://genius.com/artists/Bobby-digital-dixon"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/49860",
+     "header_image_url": "https://images.genius.com/4a43c8df09334e09bb02f378519e9655.1000x250x1.jpg",
+     "id": 49860,
+     "image_url": "https://images.genius.com/aecb478ccde8f2ad8d46349e9a574bde.225x225x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Prince Buster",
+     "url": "https://genius.com/artists/Prince-buster"
+    }
+   ],
+   "artist": "Terror Fabulous",
+   "lyrics": "A Yu Di Money Spend Pon Lyrics[Intro]\nSome gyal seh dem ah mention\nBut ah yu di money spend pon\nWoman!\nAh yu di money\u2005spend\u2005pon\n\u2018Ear why!\nMi seh\n\n[Hook]\nYu\u2005body pretty like di flowers inna\u2005mi garden\nBlooming in di morning an\u2019 gyal ah beg pardon\nWhole heap ah gyal ah talk \u2018bout seh dem ah mention\nDem a mention, but ah yu di money spend pon\nYu body pretty like di flowers inna mi garden\nBlooming in di morning an\u2019 gyal ah beg pardon\nWhole heap ah gyal ah talk \u2018bout seh dem ah mention\nDem ah mention, but ah yu di money-\n[Verse 1]\nSweet woman, mi love how yu act\nFrom di corner of mi eyes dem, ah yu mi ah watch\nLove how yu tek it easy, yu nuh climb an\u2019 stop\nTruu a gyal ah get di money an\u2019 she get it inna cash\nPropose top get married an\u2019 guh pon di hilltop\nGuh live inna big \u2018ouse wid all pool roun\u2019 ah back\nSuccess get to her, she stop come pon di flat\nAn\u2019 ah model pon her friend dem, seh dem ah deadstock\nPitty she neva know di man find a next cat\nPush it up, hold it up, a gyal yu fi show\nBig it up, grab it up an\u2019 mek a gyal know seh\n\n[Hook]\nYu body pretty like di flowers inna mi garden\nBlooming in di morning an\u2019 gyal ah beg pardon\nWhole heap ah gyal ah talk \u2018bout seh dem ah mention\nDem ah mention, but ah yu di money spend pon\nYu body pretty like di flowers inna mi garden\nBlooming in di morning an\u2019 gyal ah beg pardon\nWhole heap ah gyal ah talk \u2018bout seh dem ah mention\nDem ah mention, but ah yu\nAgain\n\n[Verse 2]\nEvery starting \u2018ave a end\nInk fi inna every pen\nIf nuh ink nuh inna dat, jus throw weh dat den\nNow yu wi see what I\u2019m talking, mi friend\nAnytime yu living big, nuh pose pon yu friend dem\nYu wi lose all di chicken an\u2019 di cock an\u2019 di hen\nTell dem seh Terror is realistic\nIf yu here to play di sound, nuh try deejay pon it\nTruu\n[Hook]\nYu body pretty like di flowers inna mi garden\nBlooming in di morning an\u2019 gyal ah beg pardon\nWhole heap ah gyal ah talk \u2018bout seh dem ah mention\nDem ah mention, but ah yu di money spend pon\nYu body pretty like di flowers inna mi garden\nBlooming in di morning an\u2019 gyal ah beg pardon\nWhole heap ah gyal ah talk \u2018bout seh dem ah mention\nDem ah mention, but ah yu\n\nWeh mi seh?\n\n[Verse 3]\nBig talk ah town, dem ah bitter talk \u2018bout\nSeh a gyal used to boast an\u2019 ah show off an\u2019 ah shock out\nNow she flop an\u2019 own a show, jus truu her mouth\nCyaan face her friend dem from out ah South\nNow she drop inna di [?] from outta di big \u2018ouse\nTruu\n\n[Hook]\nYu body pretty like di flowers inna mi garden\nBlooming in di morning an\u2019 gyal ah beg pardon\nWhole heap ah gyal ah talk \u2018bout seh dem ah mention\nDem a mention, but ah yu di money spend pon\nYu body pretty like di flowers inna mi garden\nBlooming in di morning an\u2019 gyal ah beg pardon\nWhole heap ah gyal ah talk \u2018bout seh dem ah mention\nDem ah mention, but ah yu\nAgain\n\n[Verse 1]\nSweet woman, mi love how yu act\nFrom di corner of mi eyes dem, ah yu mi ah watch\nLove how yu tek it easy, yu nuh climb an\u2019 stop\nTruu a gyal ah get di money an\u2019 she get it inna cash\nPropose top get married an\u2019 guh pon di hilltop\nGuh live inna big \u2018ouse wid all pool roun\u2019 ah back\nSuccess get to her, she stamp come pon di flat\nAn\u2019 ah model pon her friend dem, seh dem ah deadstock\nPitty she neva know di man find a next cat\nPush it up, hold it up, a gyal yu fi show\nBig it up, grab it up an\u2019 mek a gyal know seh\n\n[Hook]\nYu body pretty like di flowers inna mi garden\nBlooming in di morning an\u2019 gyal ah beg pardon\nWhole heap ah gyal ah talk \u2018bout seh dem ah mentionEmbed"
+  }
+ ]
+}
