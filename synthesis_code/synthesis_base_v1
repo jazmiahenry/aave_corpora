@@ -1,0 +1,12 @@
+name: synthesis_v1
+channels:
+	- anaconda
+	- keras
+	- conda-forge
+	- default
+dependencies:
+	- 
+
+	-pip:
+		- tweepy
+
