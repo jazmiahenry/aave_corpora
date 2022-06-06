@@ -6,13 +6,7 @@
 
 ### Dataset Formation
 
-The AAVE corpora collection is Python friendly though it can be manipulated using SQL, R, and JavaScript. There are four collections: Lyric, Leadership, Book, and Social Media and each collection can be called on as a package extension meaning each package can be called using the import function and the specific collection from the AAVE corpora. It would look like this:
-
-```
-    from aave import  #for all
-    from aave import aave_lyrics  #for lyrics collection
-```
- 
+The AAVE corpora collection is an open source data collection that uses json and txt files. There are four collections: Lyric, Leadership, Book, and Social Media and each collection can be accessed through this Git repo. This Git repo is protected by MIT License for research purposes only. This repo is only the beginning of the AAVE corpora and is used as a basis for futher research for Natural Language Data supplementation for downstream NLP tasks. Download the repo in a Zip file for access. Be aware that this repo is about 400 MB of unprocessed files with 231 items. Further processing each file will increase storage size. 
  
 The specific compilation of each collection is different. Below I will describe the characteristics of each.
 
