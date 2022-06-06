@@ -26,7 +26,8 @@ Source: Genius
 #### Leadership Collection
 The Leadership collection is a collection of speeches by prolific Black leaders from Fredrick Douglass to Sojourner Truth to Martin Luther King to Ketanji Brown Jackson and many Black political leaders in between. This collection is heavily skewed male and has a heavy education bias as the majority of speakers in this collection have at least a college degree. Geographically the dataset heavily favors speakers from the South and many states, such as Washington state, are not represented as a place of origin for any of the collected speakers. Read below for the analytical breakdown:
 
-> Most speeches in the leadership collection are speeches by former President Barack Obama (29 present speeches).
+> 34 speeches from Black leaders. 
+> Most speeches in the leadership collection are speeches by former President Barack Obama.
 
 #### Book Collection
 The Book collection was the most difficult collection to augment. African Americans have been grossly underrepresented from the literary cannon and as a result selecting only the few to have been admitted into the Ivory tower would lend itself to self selection bias. Due to this, I worked to include works from Historically Black Book archive collections from universities. The University of Kansas has such an archive that I heavily powered from. The additions in this sample, though, are not as representative of the community as the other collections and is in need of open source contributions to truly capture the diversity of Black thought and AAVE use. 
