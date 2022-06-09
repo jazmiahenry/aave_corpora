@@ -102,4 +102,4 @@ The corpora folder includes the processed .txt files of the AAVE corpora. There 
 
 
 
-**This repo is actively being updated, reconfigured, and refreshed for an official June 15 release. Email me at jazmia.henry@gmail.com for feedback, questions, and requests.**
+**This repo is actively being updated, reconfigured, and refreshed. Email me at jazmia.henry@gmail.com for feedback, questions, and requests.**
