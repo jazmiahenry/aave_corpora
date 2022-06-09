@@ -2,7 +2,7 @@
 
 ## Welcome to the AAVE Corpus. 
 
-- This dataset was created by AAVE speakers for AAVE speakers and the engineers, academics, researchers, and builders that endeavor to create NLP models that represent the beauty and complexity of the AAVE sociolect. 
+This dataset was created by AAVE speakers for AAVE speakers and the engineers, academics, researchers, and builders that endeavor to create NLP models that represent the beauty and complexity of the AAVE sociolect. 
 
 ### Dataset Formation
 
