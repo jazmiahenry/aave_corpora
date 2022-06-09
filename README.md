@@ -23,11 +23,15 @@ The Lyric Collection is a combination of json files by artist that contains the 
 
 Source: Genius 
 
+![Lyrics](corpora/lyrics_wordcloud.png)
+
 #### Leadership Collection
 The Leadership collection is a collection of speeches by prolific Black leaders from Fredrick Douglass to Sojourner Truth to Martin Luther King to Ketanji Brown Jackson and many Black political leaders in between. This collection is heavily skewed male and has a heavy education bias as the majority of speakers in this collection have at least a college degree. Geographically the dataset heavily favors speakers from the South and many states, such as Washington state, are not represented as a place of origin for any of the collected speakers. Read below for the analytical breakdown:
 
 > 34 speeches from Black leaders. 
 > Most speeches in the leadership collection are speeches by former President Barack Obama.
+
+![Leadership](corpora/leadership_wordcloud.png)
 
 #### Book Collection
 The Book collection was the most difficult collection to augment. African Americans have been grossly underrepresented from the literary cannon and as a result selecting only the few to have been admitted into the Ivory tower would lend itself to self selection bias. Due to this, I worked to include works from Historically Black Book archive collections from universities. The University of Kansas has such an archive that I heavily powered from. The additions in this sample, though, are not as representative of the community as the other collections and is in need of open source contributions to truly capture the diversity of Black thought and AAVE use. 
@@ -35,6 +39,8 @@ The Book collection was the most difficult collection to augment. African Americ
 > This was the hardest collection to source due to copyright standards. There are 54 books in this collection and growing.
 
 Source: University of Kansas
+
+![Literature](corpora/literature_wordcloud.png)
 
 #### Social Media Collection
 The Social Media Collection is my most robust and diverse collection of AAVE instances for modern day analysis. Included in this collection are json files of video transcripts, tweets, and blog posts from Black thought leaders that use AAVE prominently. 
@@ -70,6 +76,30 @@ information is as followed:
 
 > Tweet Total: 11,400
 Source: Twitter
+
+![Social Media](corpora/social_media_wordcloud.png)
+
+### Corpora
+
+The corpora folder includes the processed .txt files of the AAVE corpora. There are 141341 words in this corpora as of June 9, 2022.
+
+> social_media_corpora.txt is the processed .txt file of all of the tweets in this corpora. Here are the details:
+>    - Emojis and hashtags are still in tweets for researchers to either remove or keep to their discretion
+>    - All users and location information has been scrubbed to protect identity
+>    - Tweets collected are not scrubbed of profanity. 
+
+> leadership_corpora.txt is the processed .txt file of all speeches in this corpora.
+
+> literature_corpora.txt is the processed .txt file of all books in this corpora. 
+
+> lyrics_corpora.txt is the processed .txt file of all lyrics in this corpora.
+
+
+![Corpora](corpora/corpora_wordcloud.png)
+
+
+
+
 
 
 **This repo is actively being updated, reconfigured, and refreshed for an official June 15 release. Email me at jazmia.henry@gmail.com for feedback, questions, and requests.**
